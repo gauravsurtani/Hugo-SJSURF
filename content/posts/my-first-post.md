@@ -1,7 +1,7 @@
 +++
 title = 'Mental Health: A New Focus for the New Year'
 date = 2023-11-24T01:00:00-08:00
-draft = true
+draft = false
 featured_image='/posts/images/mental_health_hibernation_trophy.png'
 author='Gaurav Surtani'
 tags = ["Mental Health", "New Year's Resolutions", "Self-Care"]

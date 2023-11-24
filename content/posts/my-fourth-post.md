@@ -1,7 +1,7 @@
 +++
 title = 'Community Resilience: Honoring Hawaii`s Firefighters'
 date = 2023-11-24T04:00:00-08:00
-draft = true
+draft = false
 featured_image='/posts/images/community_honoring_firefighters.png'
 author='Gaurav Surtani'
 tags = ["Hawaii", "Wildfires", "Community"]

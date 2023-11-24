@@ -1,7 +1,7 @@
 +++
 title = 'Addressing the Teen Mental Health Crisis'
 date = 2023-11-24T02:00:00-08:00
-draft = true
+draft = false
 featured_image='/posts/images/teen_mental_health_crisis.png'
 author='Gaurav Surtani'
 tags = ["Mental Health", "Teenagers", "Awareness"]

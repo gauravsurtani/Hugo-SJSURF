@@ -1,7 +1,7 @@
 +++
 title = 'Aftermath of the Mililani Mauka Fire'
 date = 2023-11-24T05:00:00-08:00
-draft = true
+draft = false
 featured_image='/posts/images/mililani_mauka_fire_aftermath.png'
 author='Gaurav Surtani'
 tags = ["Hawaii", "Wildfires", "Environment"]
